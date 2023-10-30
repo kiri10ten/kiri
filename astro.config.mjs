@@ -29,7 +29,7 @@ if (isBuild) {
 
 export default defineConfig({
   server: { port: SERVER_PORT },
-  site: BASE_URL,
+ site: 'https://kiri10ten.github.io',
   integrations: [
     sitemap(),
     tailwind({
