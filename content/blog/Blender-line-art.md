@@ -36,4 +36,8 @@ thickness ----> influence ----> custom curve
 
 you can see a difference like this
 ![](/images/lineartpost/compare.jpg)
+
 That's it , Hope you had fun !
+
+Here is a simple rendered image I done recently ...
+![](\images\lineartpost\blender-sandwhich.png)
