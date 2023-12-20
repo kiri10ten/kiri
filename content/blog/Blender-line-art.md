@@ -39,5 +39,5 @@ you can see a difference like this
 
 That's it , Hope you had fun !
 
-Here is a simple rendered image I done recently ...
+Here is a simple rendered image I done recently ... : )
 ![](/images/lineartpost/blender-sandwhich.png)
